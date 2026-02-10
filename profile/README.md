@@ -34,4 +34,41 @@ Acreditamos no poder da comunidade open source! Você pode nos ajudar de várias
 - **Email:** contato@amigopet.com.br
 
 ---
+
+# Hello 👋 Welcome to AmigoPetWp
+
+We are the organization behind **AmigoPet WP**, a WordPress solution focused on managing animal adoptions. Our mission is to facilitate the work of NGOs, shelters, and independent rescuers through technology.
+
+## 🚀 Our Main Project
+
+### 🐶 [amigopet-wp](https://github.com/AmigoPetWp/amigopet-wp)
+
+**AmigoPet WP** is a revolutionary WordPress plugin designed to simplify adoption administration.
+
+#### ✨ Version 2.0.0 Highlights
+- **🏥 Complete Medical History:** Record of vaccines, exams, and consultations.
+- **📸 Photo Gallery:** Multiple upload and organization by albums.
+- **🔄 Adoption Workflow:** Structured process in stages (documents, approval, etc.).
+- **🔒 Security:** CSRF protection and robust permission system.
+- **📝 Document Management:** Generation of adoption terms with dynamic placeholders.
+
+#### 🛠 Technologies Used
+- WordPress 6.0+
+- PHP 7.4+
+- MySQL 5.7+
+- TCPDF (Document Generation)
+
+## 🤝 How to Contribute
+
+We believe in the power of the open source community! You can help us in several ways:
+- Sending **Pull Requests** with improvements or fixes.
+- Reporting bugs through **Issues**.
+- Becoming a **Sponsor** to support continuous development.
+
+## 🌐 Contact & Useful Links
+
+- **Website:** [amigopet.com.br](https://amigopet.com.br)
+- **Email:** contato@amigopet.com.br
+
+---
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/wendelmax?style=social)](https://github.com/sponsors/wendelmax)
